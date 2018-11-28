@@ -39,9 +39,12 @@ Their technology base is centered around using machine learning to maintain and 
 
 Tizzy-Whickers prides itself on being a progressive company that not only places emphasis on being diverse, but actually depends upon it in order to account for and understand the many facets of culture that can influence new and emerging memes. The company also places a heavy emphasis on employee involvement in their surrounding community, as they've found that employees whom take on challenges and solve problems from outside of their work will often be more capable of recognizing none-obvious solutions in their work.
 
+### The sample employee profile
 The guinea pig for your form will be the mad-scientist, Professor Jeff! 
 
-The Professor has discovered a way to create clones of himself. These clones will super rapidly mature to the age of twenty-something, though they are virtually identical to the original at that age, they only contain a small fraction of the actual Professor's accumulated knowledge. That said, they are ready to enter the workforce, where they will carry out all kinds of mad-science'y things. As it just so happens, one of them was recently hired at Tizzy-Whickers, and his 3 month performance appraisal is coming up!
+The Professor has discovered a way to create clones of himself. These clones quickly mature to the age of twenty-something, though they are virtually identical to the original at that age, they only contain a small fraction of the actual Professor's accumulated knowledge.
+
+That said, they are ready to enter the workforce, where they will carry out all kinds of mad-science'y things. As it just so happens, one of them was recently hired at Tizzy-Whickers, and his 3 month performance appraisal is coming up!
 
 
 
