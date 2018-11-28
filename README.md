@@ -46,5 +46,10 @@ The Professor has discovered a way to create clones of himself. These clones qui
 
 That said, they are ready to enter the workforce, where they will carry out all kinds of mad-science'y things. As it just so happens, one of them was recently hired at Tizzy-Whickers, and his 3 month performance appraisal is coming up!
 
+***Sorry if this is a little far out there, but this example case should allow everyone to to have a sense of freedom in creating definitions of their own for any ambiguity they may face***
 
+### The criteria
+This list is not ordered, meaning we will pull from it in a random fashion, but item pairs are set to be as approachable as possible, so those won't change
+
+- 
 
