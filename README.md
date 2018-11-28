@@ -12,17 +12,17 @@ Don't think of this as teams, as we'll be combining our work in the end. Also, w
 1. First, starting in the back of the room, label the groups from 1 to 4.
 2. From that number, you can map to your starting technique using the table at the end of this list.
 3. Each group needs to grab a white-board off the wall and at the top put your assigned starting Technique.
-  - These boards will be passed between groups on your side of the room. 
-  - Each group will have a turn to create an appraisal question/statement on each of the 4 white-boards on their side of the room.
-    + We will call out when to switch white-boards, and what your appraisal criteria will be with each switch 
-  - Thus, each group will make 1 contribution to each of the 4 techniques we are using in this activity. 
+    - These boards will be passed between groups on your side of the room. 
+    - Each group will have a turn to create an appraisal question/statement on each of the 4 white-boards on their side of the room.
+      + We will call out when to switch white-boards, and what your appraisal criteria will be with each switch 
+    - Thus, each group will make 1 contribution to each of the 4 techniques we are using in this activity. 
 4. Once the white-board you started with is returned to your group
-  - pair up with the group that shares your assigned number on the other side of the room 
-  - ... and try to build the best 4 statement appraisal for your board's appraisal technique that you can.
-    + just circle the statements you want to keep from each board
-  - Metrics for choosing which statements you will want to keep should include:
-    + Does the statement provide meaningful analysis of the specified criteria?
-    + Does the statement satisfy the specified purpose?
+    - pair up with the group that shares your assigned number on the other side of the room 
+    - ... and try to build the best 4 statement appraisal for your board's appraisal technique that you can.
+      + just circle the statements you want to keep from each board
+    - Metrics for choosing which statements you will want to keep should include:
+      + Does the statement provide meaningful analysis of the specified criteria?
+      + Does the statement satisfy the specified purpose?
 
 |number|starting technique|notes|
 | --- | --- | --- |
