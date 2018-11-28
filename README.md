@@ -49,7 +49,18 @@ That said, they are ready to enter the workforce, where they will carry out all 
 ***Sorry if this is a little far out there, but this example case should allow everyone to to have a sense of freedom in creating definitions of their own for any ambiguity they may face***
 
 ### The criteria
-This list is not ordered, meaning we will pull from it in a random fashion, but item pairs are set to be as approachable as possible, so those won't change
+This list is not ordered, meaning we will pull from it in a random fashion, but item pairs are set to be as approachable as possible, so you can trust that those won't change.
 
-- 
+Pair format is (objective performance metric, appraisal purpose)
+
+
+- (*top 2 accomplishments*, Administrative Purpose)
+  + example usage: Identify your top 2 accomplishments since July 2018. (using self-appraisal)
+- (*2 key strengths*, Informative Purpose)
+  + example usage: What are 2 of your key strengths? (using self-appraisal)
+- (*2 key development areas*, developmental Purpose)
+  + example usage: What are 2 of your key development areas? (using self-appraisal)
+- (*examples of Community-building*, Informative Purpose)
+  + example usage: Please highlight how you make the company a great place to work through community-building activities. (using self-appraisal)
+    
 
