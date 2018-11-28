@@ -54,12 +54,12 @@ This list is not ordered, meaning we will pull from it in a random fashion, but 
 Pair format is (objective performance metric, appraisal purpose)
 
 
-- (*top 2 accomplishments*, Administrative Purpose)
-  + example usage: Identify your top 2 accomplishments since July 2018. (using self-appraisal)
-- (*2 key strengths*, Informative Purpose)
-  + example usage: What are 2 of your key strengths? (using self-appraisal)
-- (*2 key development areas*, developmental Purpose)
-  + example usage: What are 2 of your key development areas? (using self-appraisal)
+- (*top x accomplishment(s)*, Administrative Purpose)
+  + example usage: Identify your top x accomplishment(s) since July 2018. (using self-appraisal)
+- (*x key strength(s)*, Informative Purpose)
+  + example usage: What are x of your key strength(s)? (using self-appraisal)
+- (*x key development area(s)*, developmental Purpose)
+  + example usage: What are x of your key development area(s)? (using self-appraisal)
 - (*examples of Community-building*, Informative Purpose)
   + example usage: Please highlight how you make the company a great place to work through community-building activities. (using self-appraisal)
     
